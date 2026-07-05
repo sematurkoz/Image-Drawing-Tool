@@ -10,5 +10,5 @@ Bu proje, Python ve Tkinter kütüphanesi kullanılarak geliştirilmiş, resim y
 ## Özellikler (Features)
 * **Add Image:** Bilgisayardan istenilen görseli tuvale yükleme.
 * **Pen Color & Size:** Çizim kaleminin rengini ve boyutunu (Small, Medium, Large) dinamik değiştirme.
-* **Filtreler:** Görsel üzerine "Siyah-Beyaz", "Blur (Bulanıklaştırma)", "Sharpen (Keskinleştirme)" ve "Smooth" filtrelerini uygulama.
+* **Filtreler:** Görsel üzerine "Siyah-Beyaz", "Bulanıklaştırma", "Keskinleştirme" ve "Yumuşatma" filtrelerini uygulama.
 * **Clear:** Tuvali temizleyerek orijinal görsele geri dönme.
